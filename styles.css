@@ -4,6 +4,11 @@ p {
 	text-align: center;
 }
 
-body {
+/* body {
 	background-color: burlywood;
+} */
+
+div {
+	width: 300px;
+    background-color: burlywood;
 }
