@@ -1,6 +1,6 @@
 # CAFE MENU APP
 
-The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a menu for a cafe thought for coffee nerds, socially conscious hipsters, tea lovers and influencers/freelancers alike. :coffee:
+The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a menu for a cafe thought for coffee nerds, socially conscious hipsters, tea lovers, influencers, and freelancers alike. :coffee:
 
 ![cafe menu app - Tanimara Elias Santos](assets/images/cafe-menu-showcase.gif)
 
