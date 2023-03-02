@@ -2,7 +2,7 @@
 
 The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a menu for a cafe thought for coffee nerds, socially conscious hipsters, tea lovers and influencers/freelancers alike. :coffee:
 
-![cafe menu app - Tanimara Elias Santos](assets/images/cafe-menu-showcase.mp4)
+![cafe menu app - Tanimara Elias Santos](assets/images/cafe-menu-showcase.gif)
  ## Features
 
 - Coffee & Tea menu
