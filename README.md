@@ -1,15 +1,17 @@
-# Cafe Menu App
- Css practice from FreeCodeCamp course on responsive web design
- 
+# CAFE MENU APP
+
+The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a menu for a cafe thought for coffee nerds, socially conscious hipsters, tea lovers and influencers/freelancers alike. :coffee:
+
+![cafe menu app - Tanimara Elias Santos](assets/images/cafe-menu-showcase.mp4)
  ## Features
 
-- 
+- Coffee & Tea menu
+- Breakfast & Bakery menu
 
 ## Technologies
 
 - HTML
 - CSS
-- JavaScript
 
 ## Start the App
 
